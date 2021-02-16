@@ -1,6 +1,6 @@
 # Machine Learning deployment pipeline on Google Cloud Run
 
-_João Araujo, May 04, 2020_
+
 
 This project is a simple example on how to deploy your Machine Learning algorithm on Google Cloud in a Continuous Integration and Deployment (CI/CD) context. For this, I understand that you'll need to have this skills:
 
